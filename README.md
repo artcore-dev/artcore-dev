@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">📍 Switzerland<br>- ⚡ In my free time I make music</p>
+<p align="left">📍 Switzerland<br>⚡ In my free time I make music</p>
 
 ###
 
