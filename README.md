@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
@@ -39,13 +39,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/artcore-dev/artcore-dev/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/artcore-dev/artcore-dev/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
 
 ###
