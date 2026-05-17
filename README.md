@@ -27,6 +27,6 @@
 <div align="center">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=artcore-dev&theme=transparent&hide_border=true&stroke=444&ring=6EE7B7&fire=6EE7B7&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=555&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lluca-dev&theme=transparent&hide_border=true&stroke=444&ring=6EE7B7&fire=6EE7B7&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=555&background=00000000)](https://git.io/streak-stats)
 
 </div>
